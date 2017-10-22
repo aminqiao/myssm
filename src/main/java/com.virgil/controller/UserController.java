@@ -21,6 +21,7 @@ public class UserController {
 
     @RequestMapping("/showUserById.do")
     public void selectUser(HttpServletRequest request, HttpServletResponse response) throws IOException {
+        //test for git for linux
         request.setCharacterEncoding("UTF-8");
         response.setCharacterEncoding("UTF-8");
         int userId = Integer.parseInt(request.getParameter("id"));
