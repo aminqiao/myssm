@@ -1,8 +1,6 @@
-package com.virgil.service.impl;
+package com.service.impl;
 
-import com.virgil.dao.UserMapper;
-import com.virgil.model.User;
-import com.virgil.service.IUserService;
+import com.service.IUserService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

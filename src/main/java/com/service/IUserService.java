@@ -1,6 +1,4 @@
-package com.virgil.service;
-
-import com.virgil.model.User;
+package com.service;
 
 /**
  * Created by Administrator on 2017/10/15 0015.

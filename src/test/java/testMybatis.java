@@ -1,6 +1,5 @@
 import com.alibaba.fastjson.JSON;
-import com.virgil.model.User;
-import com.virgil.service.IUserService;
+import com.service.IUserService;
 import org.apache.log4j.Logger;
 import org.junit.Test;
 import org.junit.runner.RunWith;

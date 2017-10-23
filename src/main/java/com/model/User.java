@@ -1,4 +1,4 @@
-package com.virgil.model;
+package com.model;
 
 public class User {
     private Integer id;

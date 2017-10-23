@@ -1,6 +1,6 @@
-package com.virgil.dao;
+package com.dao;
 
-import com.virgil.model.User;
+import com.model.User;
 
 public interface UserMapper {
     int deleteByPrimaryKey(Integer id);
