@@ -1,4 +1,5 @@
 import com.alibaba.fastjson.JSON;
+import com.model.User;
 import com.service.IUserService;
 import org.apache.log4j.Logger;
 import org.junit.Test;

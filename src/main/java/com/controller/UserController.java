@@ -1,5 +1,6 @@
 package com.controller;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.model.User;
 import com.service.IUserService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
