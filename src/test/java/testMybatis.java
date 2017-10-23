@@ -1,5 +1,4 @@
 import com.alibaba.fastjson.JSON;
-import com.virgil.model.User;
 import com.virgil.service.IUserService;
 import org.apache.log4j.Logger;
 import org.junit.Test;
@@ -21,7 +20,7 @@ public class testMybatis {
     private IUserService userService = null;
     @Test
     public void test1() {
-        User user = userService.selectUser(1);
+        User1 user = userService.selectUser(1);
         logger.info(JSON.toJSONString(user));
     }
 }

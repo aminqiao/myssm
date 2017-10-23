@@ -1,8 +1,5 @@
 package com.virgil.model;
 
-/**
- * Created by Administrator on 2017/10/15 0015.
- */
 public class User {
     private Integer id;
 
